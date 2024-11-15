@@ -1,0 +1,39 @@
+{
+    "studenti": [
+        {
+            "id": 1,
+            "nome": "Emanuele Simini",
+            "crediti": 21
+        },
+        {
+            "id": 2,
+            "nome": "Michael Jackson",
+            "crediti": 59
+        },
+        {
+            "id": 3,
+            "nome": "Simone Zaza",
+            "crediti": 19
+        },
+        {
+            "id": 4,
+            "nome": "Simone Zaza",
+            "crediti": 19
+        },
+        {
+            "id": 5,
+            "nome": "Armando Izzo",
+            "crediti": 12
+        },
+        {
+            "id": 6,
+            "nome": "Mario Balotelli",
+            "crediti": 100
+        },
+        {
+            "id": 7,
+            "nome": "Mario Balotelli",
+            "crediti": 100
+        }
+    ]
+}
